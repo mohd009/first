@@ -30,6 +30,10 @@ public class Student {
     public String getName() {
         return name;
     }
+    
+    public boolean isBranch(){
+     return true;
+    }
 
     /**
      * Set the value of name
