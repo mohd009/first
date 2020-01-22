@@ -6,7 +6,7 @@
 package ca.sheridancollege.week1.softwarefundamentals;
 
 /**
- *
+ *lollllllllllllllllll
  * @author just changing a few things
  */
 public class Student {
