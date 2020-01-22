@@ -32,7 +32,7 @@ public class Student {
     }
     
     public boolean isBranch(){
-     return true;
+     return true;//lol
     }
 
     /**
